@@ -12,7 +12,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="3.7">
     <Name>Hilton</Name>
     <Phone>602-555-1234</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -70,7 +70,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-  </Hotel Rating="4.8">
+  </Hotel>
   <Hotel>
     <Name>Four Seasons</Name>
     <Phone>480-999-9999</Phone>
