@@ -11,7 +11,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <NearestAirport>Sky Harbor</NearestAirport>
+    <NearstAirport>Sky Harbor</NearstAirport>
     <Rating>4.2</Rating>
   </Hotel>
   <Hotel>
@@ -24,7 +24,7 @@
       <State>AZ</State>
       <Zip>85001</Zip>
     </Address>
-    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    <NearstAirport>Phoenix Sky Harbor</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>Marriott</Name>
@@ -36,7 +36,7 @@
       <State>AZ</State>
       <Zip>85254</Zip>
     </Address>
-    <NearestAirport>Scottsdale Airport</NearestAirport>
+    <NearstAirport>Scottsdale Airport</NearstAirport>
     <Rating>3.9</Rating>
   </Hotel>
   <Hotel>
@@ -50,7 +50,7 @@
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
-    <NearestAirport>Sky Harbor</NearestAirport>
+    <NearstAirport>Sky Harbor</NearstAirport>
     <Rating>4.5</Rating>
   </Hotel>
   <Hotel>
@@ -63,7 +63,7 @@
       <State>AZ</State>
       <Zip>85719</Zip>
     </Address>
-    <NearestAirport>Tucson Airport</NearestAirport>
+    <NearstAirport>Tucson Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>Omni</Name>
@@ -75,7 +75,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <NearestAirport>Sky Harbor</NearestAirport>
+    <NearstAirport>Sky Harbor</NearstAirport>
     <Rating>4.1</Rating>
   </Hotel>
   <Hotel>
@@ -88,7 +88,7 @@
       <State>AZ</State>
       <Zip>85050</Zip>
     </Address>
-    <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+    <NearstAirport>Phoenix-Mesa Gateway</NearstAirport>
     <Rating>4.8</Rating>
   </Hotel>
   <Hotel>
@@ -101,7 +101,7 @@
       <State>AZ</State>
       <Zip>86001</Zip>
     </Address>
-    <NearestAirport>Flagstaff Pulliam</NearestAirport>
+    <NearstAirport>Flagstaff Pulliam</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>DoubleTree</Name>
@@ -113,7 +113,7 @@
       <State>AZ</State>
       <Zip>85308</Zip>
     </Address>
-    <NearestAirport>Sky Harbor</NearestAirport>
+    <NearstAirport>Sky Harbor</NearstAirport>
     <Rating>4.0</Rating>
   </Hotel>
   <Hotel>
@@ -126,7 +126,7 @@
       <State>AZ</State>
       <Zip>85016</Zip>
     </Address>
-    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    <NearstAirport>Phoenix Sky Harbor</NearstAirport>
     <Rating>4.9</Rating>
   </Hotel>
 </Hotels>
