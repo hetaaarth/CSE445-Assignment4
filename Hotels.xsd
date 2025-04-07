@@ -11,16 +11,16 @@
               <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="Number" type="xs:string"/>
+                    <xs:element name="Number" type="xs:integer"/>
                     <xs:element name="Street" type="xs:string"/>
                     <xs:element name="City" type="xs:string"/>
                     <xs:element name="State" type="xs:string"/>
-                    <xs:element name="Zip" type="xs:string"/>
+                    <xs:element name="Zip" type="xs:integer"/>
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
-              <xs:element name="NearestAirport" type="xs:string"/>
-              <xs:element name="Rating" type="xs:string" minOccurs="0"/>
+              <xs:element name="NearstAirport" type="xs:string" use="required"/>
+              <xs:element name="Rating" type="xs:decimal" minOccurs="0" use="optional"/>
             </xs:sequence>
           </xs:complexType>
         </xs:element>
