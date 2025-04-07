@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel>
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <NearestAirport>Sky Harbor</NearestAirport>
+    <Rating>4.2</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton</Name>
+    <Phone>602-555-1234</Phone>
+    <Address>
+      <Number>100</Number>
+      <Street>Main St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85001</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott</Name>
+    <Phone>623-111-2233</Phone>
+    <Address>
+      <Number>245</Number>
+      <Street>Greenway Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85254</Zip>
+    </Address>
+    <NearestAirport>Scottsdale Airport</NearestAirport>
+    <Rating>3.9</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Hyatt</Name>
+    <Phone>928-333-7890</Phone>
+    <Phone>928-333-7891</Phone>
+    <Address>
+      <Number>789</Number>
+      <Street>University Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+    <NearestAirport>Sky Harbor</NearestAirport>
+    <Rating>4.5</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Radisson</Name>
+    <Phone>520-777-8888</Phone>
+    <Address>
+      <Number>321</Number>
+      <Street>Broadway Blvd</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85719</Zip>
+    </Address>
+    <NearestAirport>Tucson Airport</NearestAirport>
+  </Hotel>
+  <Hotel>
+    <Name>Omni</Name>
+    <Phone>480-333-4444</Phone>
+    <Address>
+      <Number>666</Number>
+      <Street>Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <NearestAirport>Sky Harbor</NearestAirport>
+    <Rating>4.1</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Four Seasons</Name>
+    <Phone>480-999-9999</Phone>
+    <Address>
+      <Number>700</Number>
+      <Street>Desert Ridge</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85050</Zip>
+    </Address>
+    <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+    <Rating>4.8</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Embassy Suites</Name>
+    <Phone>928-444-1111</Phone>
+    <Address>
+      <Number>432</Number>
+      <Street>Jefferson St</Street>
+      <City>Flagstaff</City>
+      <State>AZ</State>
+      <Zip>86001</Zip>
+    </Address>
+    <NearestAirport>Flagstaff Pulliam</NearestAirport>
+  </Hotel>
+  <Hotel>
+    <Name>DoubleTree</Name>
+    <Phone>623-222-3333</Phone>
+    <Address>
+      <Number>999</Number>
+      <Street>Bell Rd</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85308</Zip>
+    </Address>
+    <NearestAirport>Sky Harbor</NearestAirport>
+    <Rating>4.0</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Ritz-Carlton</Name>
+    <Phone>602-999-8888</Phone>
+    <Address>
+      <Number>1500</Number>
+      <Street>Camelback Rd &amp; 24th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    <Rating>4.9</Rating>
+  </Hotel>
+</Hotels>

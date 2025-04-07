@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+  <Name>Westin</Name>
+  <Name>Duplicate</Name>
+  <Address>
+    <Number>11</Number>
+    <Street>E.7th St</Street>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Zip>85281
+  </Address>
+  <NearestAirport>Sky Harbor</NearestAirport>
+</Hotel>
