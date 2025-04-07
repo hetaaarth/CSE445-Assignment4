@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -11,7 +11,6 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Rating>4.2</Rating>
   </Hotel>
   <Hotel>
     <Name>Hilton</Name>
@@ -25,7 +24,7 @@
     </Address>
     
   </Hotel>
-  <Hotel>
+  <Hotel Rating="3.9">
     <Name>Marriott</Name>
     <Phone>623-111-2233</Phone>
     <Address NearstAirport="Scottsdale Airport">
@@ -35,9 +34,9 @@
       <State>AZ</State>
       <Zip>85254</Zip>
     </Address>
-    <Rating>3.9</Rating>
+    
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.5">
     <Name>Hyatt</Name>
     <Phone>928-333-7890</Phone>
     <Phone>928-333-7891</Phone>
@@ -48,9 +47,9 @@
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
-    <Rating>4.5</Rating>
+    
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Radisson</Name>
     <Phone>520-777-8888</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -61,7 +60,7 @@
       <Zip>85719</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>Omni</Name>
     <Phone>480-333-4444</Phone>
     <Address NearstAirport="Flagstaff Pulliam">
@@ -71,8 +70,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Rating>4.1</Rating>
-  </Hotel>
+  </Hotel Rating="4.8">
   <Hotel>
     <Name>Four Seasons</Name>
     <Phone>480-999-9999</Phone>
@@ -83,9 +81,8 @@
       <State>AZ</State>
       <Zip>85050</Zip>
     </Address>
-    <Rating>4.8</Rating>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Embassy Suites</Name>
     <Phone>928-444-1111</Phone>
     <Address NearstAirport="Flagstaff Pulliam">
@@ -96,7 +93,7 @@
       <Zip>86001</Zip>
     </Address>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.0">
     <Name>DoubleTree</Name>
     <Phone>623-222-3333</Phone>
     <Address NearstAirport="Flagstaff Pulliam">
@@ -106,9 +103,8 @@
       <State>AZ</State>
       <Zip>85308</Zip>
     </Address>
-    <Rating>4.0</Rating>
   </Hotel>
-  <Hotel>
+  <Hotel Rating="4.9">
     <Name>Ritz-Carlton</Name>
     <Phone>602-999-8888</Phone>
     <Address NearstAirport="Sky Harbor Airport">
@@ -118,6 +114,5 @@
       <State>AZ</State>
       <Zip>85016</Zip>
     </Address>
-    <Rating>4.9</Rating>
   </Hotel>
 </Hotels>
